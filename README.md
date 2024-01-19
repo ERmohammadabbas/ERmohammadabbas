@@ -1,4 +1,6 @@
 <img src="https://t3.ftcdn.net/jpg/05/56/29/10/240_F_556291020_q2ieMiOCKYbtoLITrnt7qcSL1LJYyWrU.jpg" alt="coding" width="1000">
+<img src="![github-header-image](https://github.com/ERmohammadabbas/ERmohammadabbas/assets/157000026/80c570bc-3d6c-46d7-99c8-eaeb7610c909)
+" alt="coding" width="1000">
 
 
 <h1 align="center">Hi 👋, I'm Mohd Abbas</h1>
