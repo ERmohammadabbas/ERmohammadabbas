@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Mohd Abbas</h1>
 <h3 align="center">A passionate full stack engineer from India</h3>
 <img src="https://t3.ftcdn.net/jpg/05/56/29/10/240_F_556291020_q2ieMiOCKYbtoLITrnt7qcSL1LJYyWrU.jpg" alt="coding" width="1000">
