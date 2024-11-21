@@ -23,6 +23,7 @@
 <a href="https://linkedin.com/in/mohd abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd abbas" height="30" width="40" /></a>
 <a href="https://fb.com/mohd abbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohd abbas" height="30" width="40" /></a>
 <a href="https://instagram.com/mohdabbas.0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohdabbas.0786" height="30" width="40" /></a>
+<a href="https://instagram.com/mohdabbas.0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/noukri.svg" alt="mohdabbas.0786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
